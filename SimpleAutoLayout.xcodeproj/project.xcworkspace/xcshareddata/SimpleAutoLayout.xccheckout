@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2E31220A-B964-4571-8404-B0BD0AD9FF48</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SimpleAutoLayout</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4A0E0391F8CAE0CAF60DB64586B0F239D7386FCF</key>
+		<string>https://github.com/nalinnatrajan/iKompassDay6-AutoLayout.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SimpleAutoLayout.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4A0E0391F8CAE0CAF60DB64586B0F239D7386FCF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nalinnatrajan/iKompassDay6-AutoLayout.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4A0E0391F8CAE0CAF60DB64586B0F239D7386FCF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4A0E0391F8CAE0CAF60DB64586B0F239D7386FCF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iKompassDay6-AutoLayout</string>
+		</dict>
+	</array>
+</dict>
+</plist>
